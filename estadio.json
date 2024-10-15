@@ -1,0 +1,51 @@
+ 
+{
+      "eventos": [
+        {
+          "id": 1,
+          "tipo": "Futebol",
+          "data": "2024-12-10",
+          "timeMandante": "Santos",
+          "timeVisitante": "Gremio",
+          
+          "ingressos": [
+            {
+              "id": 1,
+              "preco": 50.00,
+              "setor": "Arquibancada",
+              "disponibilidade": 2000
+            }
+        ] 
+            
+
+        }
+      ],
+      "assentos": [
+        {
+          "id": 1,
+          "setor": "Arquibancada",
+          "totalAssentos": 25000,
+          "disponiveis": 2000
+        },
+        {
+          "id": 2,
+          "setor": "Camarote",
+          "totalAssentos": 1000,
+          "disponiveis": 500      
+       }
+      ],
+      "torcedores": [
+        {
+          "id": 1,
+          "nome": "Julio cesar",
+          "idade": 19,
+          "documento": "12345678900"
+        },
+        {
+          "id": 2,
+          "nome": "luiz felipe",
+          "idade": 20,
+          "documento": "98765432100"
+    }
+  ]
+}
