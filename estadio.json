@@ -13,7 +13,7 @@
               "id": 1,
               "preco": 50.00,
               "setor": "Arquibancada",
-              "disponibilidade": 2000
+              "disponibilidade": 3000
             }
         ] 
             
@@ -24,14 +24,14 @@
         {
           "id": 1,
           "setor": "Arquibancada",
-          "totalAssentos": 25000,
-          "disponiveis": 2000
+          "totalAssentos": 8000,
+          "disponiveis": 3000
         },
         {
           "id": 2,
           "setor": "Camarote",
           "totalAssentos": 1000,
-          "disponiveis": 500      
+          "disponiveis": 250      
        }
       ],
       "torcedores": [
